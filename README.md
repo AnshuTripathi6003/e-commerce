@@ -3,7 +3,7 @@
 This is the backend for ecommerce website. How to get started?
 Clone Repo :
 
-$ git clone https://github.com/prachipathrayan/ecommerce
+$ git clone https://github.com/AnshuTripathi6003/e-commerce.git
 
 $ cd basic_ecommerce
 
@@ -25,7 +25,3 @@ $ export MYSQL_URI_LOCAL=<mysql-url>
 Run server
 
 $ npm run start:dev
-
-
-
-postman collection link :  https://www.getpostman.com/collections/37152866d24094a01696
